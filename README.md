@@ -73,6 +73,3 @@ The implementation follows ADK's architecture principles:
 - Custom tool development
 - Advanced deployment automation
 
-
-## Contact
-[Your contact information]
