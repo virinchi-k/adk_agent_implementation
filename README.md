@@ -1,13 +1,13 @@
 # Google ADK Agent Implementation
 
 ## Project Overview
-This project implements an AI agent using Google's Agent Development Kit (ADK), a flexible and modular framework for developing and deploying AI agents. The implementation includes a local development setup with cloud integration capabilities.
+This project implements an AI agent using Google's Agent Development Kit (ADK), which is a flexible and modular framework for developing and deploying AI agents. The implementation includes a local development setup with cloud integration capabilities.
 
 ## Tech Stack
 - Python 3.11
 - Google ADK 1.18.0
 - Google Cloud SDK
-- Vertex AI / Gemini Integration
+- Gemini Integration
 
 ## Setup and Configuration
 ### Prerequisites
